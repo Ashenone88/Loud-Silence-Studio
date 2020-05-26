@@ -64,7 +64,7 @@ img {
   }
 
   .site-logo:active {
-    background-image: url(./img/vicenzo.jpg);
+    background-image: url(/img/vicenzo.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -111,7 +111,7 @@ img {
 
 .banner {
     min-height: 400px;
-    background-image: url(./img/banner.jpg);
+    background-image: url(/img/banner.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -250,11 +250,11 @@ img {
     display: inline-block;
 }
 .icon-facebook {
-    background-image: url(./img/facebook.png);
+    background-image: url(/img/facebook.png);
 }
 
 .icon-instagram {
-    background-image: url(./img/instagram.png);
+    background-image: url(/img/instagram.png);
 }
 
 
@@ -286,7 +286,7 @@ img {
     display: block;
     width: 400px;
     height: 232px;
-    background-image: url(./img/boys/день.png);
+    background-image: url(/img/boys/день.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -314,7 +314,7 @@ img {
 
 
 .crazy {
-    background-image: url(./img/boys/vay.jpg);
+    background-image: url(/img/boys/vay.jpg);
     position: relative;
     height: 2500px;
     width: 100%;
@@ -424,7 +424,7 @@ transition-duration: 0.4s;
 }
 
 .download button:active {
-    background-image: url(./img/boys/yaro1.jpg);
+    background-image: url(/img/boys/yaro1.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
